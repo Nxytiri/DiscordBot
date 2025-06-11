@@ -13,4 +13,4 @@ initial_extensions = ['cogs.moderation', 'cogs.tickets', 'cogs.roblox', 'cogs.in
 for ext in initial_extensions:
     bot.load_extension(ext)
 
-bot.run(os.getenv("DISCORD_BOT_TOKEN"))
+bot.run(os.getenv("1382404720098021599"))
